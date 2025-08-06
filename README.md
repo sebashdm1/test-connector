@@ -60,8 +60,8 @@ A enterprise-grade REST API connector that extracts metadata from relational dat
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd foo-database-connector
+   git clone <https://github.com/sebashdm1/test-connector.git>
+   cd test-connector
    ```
 
 2. **Install dependencies**
